@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "description": "",
+  "main": "src/index.tsx",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3"
+  }
+}
